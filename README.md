@@ -1,4 +1,5 @@
-# 🎮 Silly's Gameshow - Revive Mod                ((this whole project was made with Ai, specificly claude opus 3 by Anthropic be careful))
+# 🎮 Silly's Gameshow - Revive Mod       
+((this whole project was made with Ai, specificly claude opus 3 by Anthropic be careful))
 
 Restores **Silly's Gameshow** after the authentication servers
 were shut down. Play with your friends again!

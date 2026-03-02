@@ -1,3 +1,5 @@
+[![Download SillyRevive](https://img.shields.io/badge/Download-SillyRevive%20v1.0.0-brightgreen?style=for-the-badge&logo=github)](https://github.com/osmzduck/SillyRevive/releases/tag/v1.0.0)
+
 # 🎮 Silly's Gameshow - Revive Mod       
 ((this whole project was made with Ai, specificly claude opus 3 by Anthropic be careful))
 

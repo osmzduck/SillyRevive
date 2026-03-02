@@ -15,7 +15,7 @@ were shut down. Play with your friends again!
 ## Installation (Easy)
 
 1. Download `InstallSillyRevive.bat` from
-   [Releases]([../../releases/tag/v1.0.0]))
+   [Releases]([../releases/tag/v1.0.0]))
 2. Double-click it
 3. It will find your game automatically
    (or paste your game folder path)
